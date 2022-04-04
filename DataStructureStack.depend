@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1632138807 source:e:\nti\practicse\datastructurestack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1632138580 e:\nti\practicse\datastructurestack\stack.h
+
+1632138628 source:e:\nti\practicse\datastructurestack\stack.c
+	"stack.h"
+
